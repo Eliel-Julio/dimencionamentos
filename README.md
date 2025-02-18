@@ -1,5 +1,5 @@
 # dimencionamentos
- conjunto de codigos para dimencionamento de elementos de maquina
+ conjunto de codigos para dimencionamento de elementos de maquina /n
  set of codes for dimensioning machine elements
 
  ## português brasileiro
