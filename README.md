@@ -3,7 +3,7 @@
  set of codes for dimensioning machine elements
 
  ## português brasileiro
- codigo antigo, sem devida documentação nas funções, atualizações futuras traram uma documentação interna de cada função facilitando o reuso dessas funções em outros calculos
+ >codigo antigo, sem devida documentação nas funções, atualizações futuras traram uma documentação interna de cada função facilitando o reuso dessas funções em outros calculos
 
 
  ## English
